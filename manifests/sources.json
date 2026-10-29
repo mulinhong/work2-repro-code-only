@@ -1,0 +1,299 @@
+[
+  {
+    "original_path": "rpc_b2_repeats_20261027_lock1/frozen_worker.py",
+    "repository_path": "frozen/planning/frozen_worker.py",
+    "sha256": "f3e08c098c9d868c7c42405307ac60e0ad721554b76a33df721aabb70a421a45",
+    "origin": "code_only_zip"
+  },
+  {
+    "original_path": "fhex_v1/final_v2/audit_child_sharing_decomposition_v0.py",
+    "repository_path": "frozen/planning/audit_child_sharing_decomposition_v0.py",
+    "sha256": "00f283e096a104f23cc5c01f7bd4718d10653567b1ccef596544fead068a8ea4",
+    "origin": "code_only_zip"
+  },
+  {
+    "original_path": "fhex_v1/obstruction_audit_v0/audit_all_optimal_backbones_one_leaf_v0.py",
+    "repository_path": "frozen/planning/audit_all_optimal_backbones_one_leaf_v0.py",
+    "sha256": "a6ca6cfe7f48ed53155aac96b50b4dc8f4d622f2d4cf8dcaef6f34dffb12ebb0",
+    "origin": "code_only_zip"
+  },
+  {
+    "original_path": "fhex_v1/obstruction_audit_v0/audit_dual_bound_theory_v0.py",
+    "repository_path": "frozen/planning/audit_dual_bound_theory_v0.py",
+    "sha256": "d543be89969cea97cda241ad68eab7e9ae52c5fde70d86536832447a32317727",
+    "origin": "code_only_zip"
+  },
+  {
+    "original_path": "fhex_v1/obstruction_audit_v0/audit_dual_bound_threeway_v0.py",
+    "repository_path": "frozen/planning/audit_dual_bound_threeway_v0.py",
+    "sha256": "541fb6ad3cf8036c69030b7fb6249e5e1a973fdf6f5a14cba9685d429608b826",
+    "origin": "code_only_zip"
+  },
+  {
+    "original_path": "fhex_v1/obstruction_audit_v0/audit_dual_lazy_eval_v0.py",
+    "repository_path": "frozen/planning/audit_dual_lazy_eval_v0.py",
+    "sha256": "4d79a7dd1eeef0fd655e70fcc30cd9f2dcd3fc14118c9bd80fafc11cf563b20c",
+    "origin": "code_only_zip"
+  },
+  {
+    "original_path": "fhex_v1/obstruction_audit_v0/audit_final_threeway_lazy_v0.py",
+    "repository_path": "frozen/planning/audit_final_threeway_lazy_v0.py",
+    "sha256": "36d1ffc31af305bb545ae0c7d0c71f72feeabe474517d7b6894373fb659f41c1",
+    "origin": "code_only_zip"
+  },
+  {
+    "original_path": "fhex_v1/obstruction_audit_v0/audit_fixed_tree_arbitrary_leaf_split_v0.py",
+    "repository_path": "frozen/planning/audit_fixed_tree_arbitrary_leaf_split_v0.py",
+    "sha256": "6d78e1c068fb9c324943299516b48aa8bca53578bd91a2b1f5b7fa590ee40b12",
+    "origin": "code_only_zip"
+  },
+  {
+    "original_path": "fhex_v1/obstruction_audit_v0/audit_fixed_tree_one_leaf_existing_split_v0.py",
+    "repository_path": "frozen/planning/audit_fixed_tree_one_leaf_existing_split_v0.py",
+    "sha256": "016d465edf8d70ae56970e155070c23e2c6559abd00693fa5bee5ea2dc520620",
+    "origin": "code_only_zip"
+  },
+  {
+    "original_path": "fhex_v1/obstruction_audit_v0/audit_joint_k5_union_exact_v0.py",
+    "repository_path": "frozen/planning/audit_joint_k5_union_exact_v0.py",
+    "sha256": "33d8a037da621e3213f94e8578a7bdb4d9e87483d5e9ef06f1eab885c0136d55",
+    "origin": "code_only_zip"
+  },
+  {
+    "original_path": "fhex_v1/obstruction_audit_v0/audit_oracle_continuation_capacity_v0.py",
+    "repository_path": "frozen/planning/audit_oracle_continuation_capacity_v0.py",
+    "sha256": "791efbebbe03f02f63c8a2b65f545736b46b9ddcbbd3e6a934dd942a0465059a",
+    "origin": "code_only_zip"
+  },
+  {
+    "original_path": "fhex_v1/obstruction_audit_v0/audit_rank_prefix_greedy_theorem_v0.py",
+    "repository_path": "frozen/planning/audit_rank_prefix_greedy_theorem_v0.py",
+    "sha256": "526548d3eb424eb75773c96324581981eadf494a1ac474535cef2fb2f9369c19",
+    "origin": "code_only_zip"
+  },
+  {
+    "original_path": "fhex_v1/obstruction_audit_v0/audit_rpc_capacity_bound_value_v0.py",
+    "repository_path": "frozen/planning/audit_rpc_capacity_bound_value_v0.py",
+    "sha256": "4da6e382b26b35506f8de2ccd6d107aed4a3e5918b8f26fa16d254ac73aa380a",
+    "origin": "code_only_zip"
+  },
+  {
+    "original_path": "fhex_v1/obstruction_audit_v0/audit_rpc_depth_quota_bound_v0.py",
+    "repository_path": "frozen/planning/audit_rpc_depth_quota_bound_v0.py",
+    "sha256": "162cc018992d014cd56ab46e69c957144589f2264ad0c3f94f7bd441e1b3cdc2",
+    "origin": "code_only_zip"
+  },
+  {
+    "original_path": "fhex_v1/obstruction_audit_v0/audit_rpc_dq_complementarity_v0.py",
+    "repository_path": "frozen/planning/audit_rpc_dq_complementarity_v0.py",
+    "sha256": "538d32322e8c963145957c32592c544682f60e3d26ecceaf98d698bf1ff3172b",
+    "origin": "code_only_zip"
+  },
+  {
+    "original_path": "fhex_v1/obstruction_audit_v0/audit_tecs_rcps_union_v0.py",
+    "repository_path": "frozen/planning/audit_tecs_rcps_union_v0.py",
+    "sha256": "0d05f783ac6ffa3196bbeca618ee96f3a3ff912901a70781700b5dc6b8e1d504",
+    "origin": "code_only_zip"
+  },
+  {
+    "original_path": "fhex_v1/scripts/audit_answer_pattern_quotient_compiler_v0.py",
+    "repository_path": "frozen/representation/audit_answer_pattern_quotient_compiler_v0.py",
+    "sha256": "a5d14eba3a6634c26defa13f4ba42561347d7d5c19b3449a3df889bc0cc208df",
+    "origin": "code_only_zip"
+  },
+  {
+    "original_path": "fhex_v1/scripts/audit_bcr_a2_exact_program_fact_bcct.py",
+    "repository_path": "frozen/representation/audit_bcr_a2_exact_program_fact_bcct.py",
+    "sha256": "1d27808e3f86cd8956e6e342a342efd0a8f9d78e35c7232e25483e1df57b5851",
+    "origin": "code_only_zip"
+  },
+  {
+    "original_path": "fhex_v1/scripts/audit_bcr_a4_rcps.py",
+    "repository_path": "frozen/representation/audit_bcr_a4_rcps.py",
+    "sha256": "580b1fa28560fccce123a57d3eea88f35dc5c6dc3ab310844cc531e3e5279dd9",
+    "origin": "code_only_zip"
+  },
+  {
+    "original_path": "fhex_v1/scripts/audit_rcps_all_hypothesis_shared_gap_v0.py",
+    "repository_path": "frozen/representation/audit_rcps_all_hypothesis_shared_gap_v0.py",
+    "sha256": "df2d8f33869ed623122f480bcd7a1d4f79a48a083a791b8ac43ac05746712e15",
+    "origin": "code_only_zip"
+  },
+  {
+    "original_path": "fhex_v1/scripts/audit_repairability_bounded_joint_search_v0.py",
+    "repository_path": "frozen/representation/audit_repairability_bounded_joint_search_v0.py",
+    "sha256": "d6ca28ab382d7965a21544228df9c52fee37f2926b846748143b2bcf1ceebc21",
+    "origin": "code_only_zip"
+  },
+  {
+    "original_path": "fhex_v1/scripts/audit_tree_embeddable_certificate_synthesis_v0.py",
+    "repository_path": "frozen/representation/audit_tree_embeddable_certificate_synthesis_v0.py",
+    "sha256": "12c31549062575e68b4cd0daa57659ad4572d372c16d11cf366a8c5ba7221d98",
+    "origin": "code_only_zip"
+  },
+  {
+    "original_path": "fhex_v1/scripts/benchmark_tecs_rbjs_runtime_v0.py",
+    "repository_path": "frozen/evaluation/benchmark_tecs_rbjs_runtime_v0.py",
+    "sha256": "509f5414bfabbfa82ce960770cc9e1adbf71a464e8a5d0b6b8671370fa962824",
+    "origin": "code_only_zip"
+  },
+  {
+    "original_path": "fhex_v1/scripts/build_rcps_prospective_p1_pool.py",
+    "repository_path": "frozen/retrieval/build_rcps_prospective_p1_pool.py",
+    "sha256": "683e1cecd7f4781d5d0fb0d9d90244040920e752f314098034b99b346c461938",
+    "origin": "code_only_zip"
+  },
+  {
+    "original_path": "fhex_v1/scripts/eval_rcps_prospective_p1.py",
+    "repository_path": "frozen/evaluation/eval_rcps_prospective_p1.py",
+    "sha256": "b53c10b1b14b1d35c1845f8b3b148c7eb2352f0a51bf0791bc44f0e115fc976a",
+    "origin": "code_only_zip"
+  },
+  {
+    "original_path": "fhex_v1/scripts/freeze_jters_p3_manifest_v1.py",
+    "repository_path": "frozen/evaluation/freeze_jters_p3_manifest_v1.py",
+    "sha256": "93429046833a9f32949d45b6171820c99bf3f55c08794a9ab2b2e692c229321b",
+    "origin": "code_only_zip"
+  },
+  {
+    "original_path": "fhex_v1/scripts/freeze_rcps_prospective_p1.py",
+    "repository_path": "frozen/evaluation/freeze_rcps_prospective_p1.py",
+    "sha256": "7164ea1711845dc64de770eb67d51fdca45deb77c9cfad66aae2913f16e66ac0",
+    "origin": "code_only_zip"
+  },
+  {
+    "original_path": "fhex_v1/prospective/p3_jters_v2/evaluation_v1/run_p3_frozen_jters_v2.py",
+    "repository_path": "frozen/evaluation/run_p3_frozen_jters_v2.py",
+    "sha256": "427ea341ff9d7d4b438877636c983d9556634b00a28a561f1030e570b6a33921",
+    "origin": "code_only_zip"
+  },
+  {
+    "original_path": "fhex_v1/prospective/p3_jters_v2/retrieval_v1/build_p3_query_contract_v1.py",
+    "repository_path": "frozen/retrieval/build_p3_query_contract_v1.py",
+    "sha256": "c49b19c859fd424c907b242d71d3ffc99a3492dcb291dd8d5d68815c1fe0556a",
+    "origin": "code_only_zip"
+  },
+  {
+    "original_path": "fhex_v1/prospective/p3_jters_v2/retrieval_v1/build_p3_qwen3_top500_historical_v1.py",
+    "repository_path": "frozen/retrieval/build_p3_qwen3_top500_historical_v1.py",
+    "sha256": "b333d1a0133518122d40e744bde1ccd53d3f631838360e3836e44949e8a25f30",
+    "origin": "code_only_zip"
+  },
+  {
+    "original_path": "tecs_paper_r4e2_three_round_replication_v1/round_01/r4e2.py",
+    "repository_path": "frozen/evaluation/r4e2.py",
+    "sha256": "a86f68d6b1b8cda6a0bd371e2c59ed75756425184fccc938a48fd1ccf671a571",
+    "origin": "code_only_zip"
+  },
+  {
+    "original_path": "fhex_v1/obstruction_audit_v0/audit_oracle_tree2_capacity_v0.py",
+    "repository_path": "frozen/planning/audit_oracle_tree2_capacity_v0.py",
+    "sha256": "e23d9f72588d314d15685e2692fae192e317cebc391ca56dfa59efb2347c5d0b",
+    "origin": "previous_user_snapshot_dependency"
+  },
+  {
+    "original_path": "fhex_v1/obstruction_audit_v0/audit_depth2_obstruction_v0.py",
+    "repository_path": "frozen/planning/audit_depth2_obstruction_v0.py",
+    "sha256": "aa4e1d359ff9dfe801a1ddfd23cc91c35c2f05e36dd08113f5d7af776b3f46e8",
+    "origin": "previous_user_snapshot_dependency"
+  },
+  {
+    "original_path": "fhex_v1/frozen_v2/audit_tree_embeddable_certificate_synthesis_v0.py",
+    "repository_path": "frozen/representation/audit_tree_embeddable_certificate_synthesis_v0.py",
+    "sha256": "12c31549062575e68b4cd0daa57659ad4572d372c16d11cf366a8c5ba7221d98",
+    "origin": "previous_user_snapshot_dependency",
+    "alias_of_identical_bytes": true
+  },
+  {
+    "original_path": "fhex_v1/prospective/p3_jters_v2/retrieval_v3_trainonly_exactkernel/build_p3_trainonly_exactkernel_v1.py",
+    "repository_path": "frozen/retrieval/build_p3_trainonly_exactkernel_v1.py",
+    "sha256": "21c6134a7dfd89614a02ceff5af032f531dc08c81757f1a7f6e9a70536c16b7b",
+    "origin": "previous_user_snapshot_dependency"
+  },
+  {
+    "original_path": "fhex_v1/frozen_v2/audit_repairability_bounded_joint_search_v0.py",
+    "repository_path": "frozen/representation/audit_repairability_bounded_joint_search_v0.py",
+    "sha256": "d6ca28ab382d7965a21544228df9c52fee37f2926b846748143b2bcf1ceebc21",
+    "origin": "previous_user_snapshot_dependency",
+    "alias_of_identical_bytes": true
+  },
+  {
+    "original_path": "fhex_v1/frozen_v2/audit_answer_pattern_quotient_compiler_v0.py",
+    "repository_path": "frozen/representation/audit_answer_pattern_quotient_compiler_v0.py",
+    "sha256": "a5d14eba3a6634c26defa13f4ba42561347d7d5c19b3449a3df889bc0cc208df",
+    "origin": "previous_user_snapshot_dependency",
+    "alias_of_identical_bytes": true
+  },
+  {
+    "original_path": "fhex_v1/scripts/build_trainonly_repair_sandbox.py",
+    "repository_path": "frozen/retrieval/build_trainonly_repair_sandbox.py",
+    "sha256": "1a8167cd4774935782e30f7347941bd7e43795e43a16ad3e08c49c47c3e4331f",
+    "origin": "previous_user_snapshot_dependency"
+  },
+  {
+    "original_path": "tecs_paper_r4b_streed_rankloss_native_v1/derived/include/tasks/rank_loss.h",
+    "repository_path": "frozen/streed/rank_loss.h",
+    "sha256": "a5a11488aeed517d959146161c0fab360c2b410838e6f47a8a05cef8049fc1ac",
+    "origin": "code_only_zip"
+  },
+  {
+    "original_path": "sota_s6_dl85_train100_20261028_LOCK1/run.py",
+    "repository_path": "frozen/evaluation/dl85_comparison_driver.py",
+    "sha256": "01e51b898bef685baa25b7fba3ea42e573454e9519bf5f1ca040bb2fc74026e6",
+    "origin": "existing_Work2_manuscript_frozen_source_snapshot"
+  },
+  {
+    "original_path": "sota_s6_dl85_train100_20261028_LOCK1/runner.sh",
+    "repository_path": "frozen/evaluation/vest2_original_runner.sh",
+    "sha256": "18cbf7206b79ec479b36ce961c309f44d544e56e543bab08a20c7a4b2c76a85b",
+    "origin": "VEST2_A4_SOURCE_AND_S6_ENTRY_zip"
+  },
+  {
+    "original_path": "a1_wpg256_formal_INSTALL_R2_20261027/main.py",
+    "repository_path": "frozen/evaluation/selector_input_driver.py",
+    "sha256": "c1826e79fac2775d4138348d591bf1847e078fb0b13f2ed3af9bc470ed146340",
+    "origin": "VEST2_A4_SOURCE_AND_S6_ENTRY_zip"
+  },
+  {
+    "original_path": "sota_s5r1_fulltecs_20261028_121702_163448/run.py",
+    "repository_path": "frozen/evaluation/dl85_s5r1_driver.py",
+    "sha256": "45e13381fc050ddf3945dfa0dca9df6150b092adb71d11ec1e17dbd87e652a05",
+    "origin": "VEST2_A4_SOURCE_AND_S6_ENTRY_zip"
+  },
+  {
+    "original_path": "sota_s5_dl85_official_R0/run.py",
+    "repository_path": "frozen/evaluation/dl85_s5_driver.py",
+    "sha256": "4f25f7bced29a13a8db06bcc2597368ab6c40c29fb17b59184b4c68d10d6c246",
+    "origin": "VEST2_A4_SOURCE_AND_S6_ENTRY_zip"
+  },
+  {
+    "original_path": "tecs_paper_r4d_o3_streed_train82_v1/rank_loss_cli_wide_o3.cpp",
+    "repository_path": "frozen/streed/rank_loss_cli_wide_o3.cpp",
+    "sha256": "de5153d14e01fc144f90ab8ee9e3fb2c1b71365d09bbc7ea75e277b222815ae2",
+    "origin": "Work2_STreeD_training_recovery_archive"
+  },
+  {
+    "original_path": "generated/exact_historical_STreeD_integration.patch",
+    "repository_path": "frozen/streed/upstream_integration.patch",
+    "sha256": "59ab670025576b7a6bf4b0fbd61d1861ca62e7017b2025c6dbda7cb68dcb454f",
+    "origin": "byte-comparison_of_fixed_upstream_and_original_derived_sources"
+  },
+  {
+    "original_path": "paper_v14_disjoint_controls_Mt5Q0mY6/run.py",
+    "repository_path": "frozen/representation/signed_library_selectors.py",
+    "sha256": "aaa0d54faea9b21957e1149c6eee18efa51207d38281b7fcc1218b6618355b8a",
+    "origin": "previous_user_snapshot_hash_pinned_call_dependency"
+  },
+  {
+    "original_path": "a1_wpg256_dev_vydlsZPM/run.py",
+    "repository_path": "frozen/representation/witness_portfolio_selector.py",
+    "sha256": "fc46588b049b4fa715ae76297ffd6222faac27b4f67c287534af6ade35bd9331",
+    "origin": "previous_user_snapshot_hash_pinned_call_dependency"
+  },
+  {
+    "original_path": "rpc_b2_repeats_20261027_lock1/driver.py",
+    "repository_path": "frozen/evaluation/rpc_train82_driver.py",
+    "sha256": "d179b9ae5d1d2dfe7415cb5861f63bfa2e1d6baf43cbd02d7d313998dad2993b",
+    "origin": "existing_Work2_B2_Train_only_archive"
+  }
+]

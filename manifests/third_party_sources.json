@@ -1,0 +1,19 @@
+[
+  {
+    "package": "pystreed",
+    "version": "1.4.0",
+    "url": "https://files.pythonhosted.org/packages/e1/a9/89300a0041210a286a27f7d08e8eeb0fb8e94ceb94c696bfdf74bcbbca74/pystreed-1.4.0.tar.gz",
+    "sha256": "63ff09838c5838cff30bbbceca56994417b8b0c05f9b082a666ba7e8a632e113",
+    "license": "Copyright 2023 Jacobus G. M. van der Linden, Delft University of Technology\n        \n        Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \u201cSoftware\u201d), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n        \n        The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n        \n        THE SOFTWARE IS PROVIDED \u201cAS IS\u201d, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+  },
+  {
+    "file": "CodeSearchNet-LICENSE",
+    "url": "https://raw.githubusercontent.com/github/CodeSearchNet/master/LICENSE",
+    "sha256": "5ba1fd8a344040f2698ed3234aeb8f4b3e85211aa54a37048021f3eb0043be22"
+  },
+  {
+    "file": "CodeSearchNet-README",
+    "url": "https://raw.githubusercontent.com/github/CodeSearchNet/master/README.md",
+    "sha256": "1d4794ab520121b37c903bfa890a7c73ad2387a2f6b57a96372f74882faca5c6"
+  }
+]

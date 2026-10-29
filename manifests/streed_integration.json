@@ -1,0 +1,36 @@
+{
+  "upstream_sdist_sha256": "63ff09838c5838cff30bbbceca56994417b8b0c05f9b082a666ba7e8a632e113",
+  "changes": [
+    {
+      "path": "include/tasks/tasks.h",
+      "official_sha256": "e488da0fa659341267d2ed716aee0199db8af2c0f68b9c9bc6b1ebab64ca0513",
+      "derived_sha256": "af519ea862b1dd6b0b2ac3d62efbb72d650c80fe988289a42958f682cfe519f0",
+      "patch_lines": 9
+    },
+    {
+      "path": "src/solver/solver.cpp",
+      "official_sha256": "6877cd1516b129b1ed7269e438bc1f64d56e024fb5a34b84fc15df6019733701",
+      "derived_sha256": "95b69d8a7c714dbfb74828b2375c45712a3c885a5d123252ec33bbf527e14476",
+      "patch_lines": 10
+    },
+    {
+      "path": "src/solver/dataset_cache.cpp",
+      "official_sha256": "ebdca2d3dc6b6937ef403af414a6538eb2606fc7388134f8437fa29f38611093",
+      "derived_sha256": "8f970d8aad0716c7790c89b66661a617e1e4d0ff509c9ba7a69ded1b955a03a5",
+      "patch_lines": 10
+    },
+    {
+      "path": "src/solver/branch_cache.cpp",
+      "official_sha256": "f0706691d1f715b5ed005795b1e8c8b6c0acd695a5b42317f0aa3e8bfb1cf455",
+      "derived_sha256": "48362ef15354bba4c83a55cb698b9fcd73ac1ab30ff55157207bcc43055e5992",
+      "patch_lines": 10
+    },
+    {
+      "path": "src/solver/cache.cpp",
+      "official_sha256": "6c9ca6afa874a5efbd5e7baee858e12d1bd71655c91fb636df6326259e2ace59",
+      "derived_sha256": "58b6b95f827ccb5eb8a912cf742127009ad17632e3e02153af561964f0075dde",
+      "patch_lines": 10
+    }
+  ],
+  "scope": "Exact derived-versus-upstream differences recovered from existing Work2 Train-only source archive. No frozen task logic edited."
+}

@@ -1,0 +1,36 @@
+{
+  "status": "PRE_REGISTERED_TRAIN_ONLY",
+  "cases": 100,
+  "repetitions": 3,
+  "depth": 2,
+  "max_leaves": 4,
+  "Top_B": 20,
+  "E": 80,
+  "official_dl85_version": "0.1.8",
+  "official_commit": "a7f0fee72b4c17bbcb727050ba102db7dda10119",
+  "dl85_internal_timeout_seconds": 45,
+  "external_worker_timeout_seconds": 85,
+  "order": "rep1 ascending, rep2 descending, rep3 rotated at 50; within each case first solver toggles with (case+rep)%2",
+  "same_preselected_tecs_feature_library_per_method": true,
+  "not_feature_selection_comparison": true,
+  "no_test_R12_access": true,
+  "all_complete_or_censored_cases_preserved": true,
+  "source_pins": {
+    "A4": [
+      "fhex_v1/scripts/audit_bcr_a4_rcps.py",
+      "580b1fa28560fccce123a57d3eea88f35dc5c6dc3ab310844cc531e3e5279dd9"
+    ],
+    "A1": [
+      "a1_wpg256_formal_INSTALL_R2_20261027/main.py",
+      "c1826e79fac2775d4138348d591bf1847e078fb0b13f2ed3af9bc470ed146340"
+    ],
+    "S5R1": [
+      "sota_s5r1_fulltecs_20261028_121702_163448/run.py",
+      "45e13381fc050ddf3945dfa0dca9df6150b092adb71d11ec1e17dbd87e652a05"
+    ]
+  },
+  "input_manifest_sha256": "64c310b5b292a46952bee4ac8a3e7d797522848368baa35c2b6339da26452115",
+  "no_gpu_or_work1_process_modification": true,
+  "statistical_unit": "query, not repeated run",
+  "report_solver_only_and_external_worker_wall_separately": true
+}

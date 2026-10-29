@@ -1,0 +1,6 @@
+{
+  "tecs_paper_r4e2_three_round_replication_v1/controller.py": "Historical source-regeneration/controller; canonical paired runner and fresh commands retained instead.",
+  "tecs_paper_r4e1r7_direct_source_v1/r4e1r7.py": "Superseded paired runner version; not copied into the clean repository.",
+  "fhex_v1/prospective/p3_jters_v2/retrieval_v2_trainonly/build_p3_trainonly_retrieval_v1.py": "Superseded retrieval implementation referenced only for historical provenance; fetch separately if the frozen v3 provenance check requires it.",
+  "tecs_paper_r4b_streed_rankloss_native_v1/derived/src/rank_loss_cli.cpp": "Superseded 256-feature CLI. The actual historical O3 driver supporting 2048 columns is retained byte-for-byte instead; RankLoss task header is unchanged."
+}

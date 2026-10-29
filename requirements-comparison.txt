@@ -1,0 +1,3 @@
+# Separate DL8.5 comparison baseline; this is not VEST-2.
+# Historical upstream commit: a7f0fee72b4c17bbcb727050ba102db7dda10119
+pydl8.5==0.1.8

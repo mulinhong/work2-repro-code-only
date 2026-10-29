@@ -1,0 +1,7 @@
+# Historical server retrieval environment
+-r requirements.txt
+pandas==2.3.3
+scipy==1.15.3
+transformers==4.57.6
+# The original server uses torch==2.5.1+cu121.
+# Keep pyarrow and huggingface_hub consistent with the server environment.
