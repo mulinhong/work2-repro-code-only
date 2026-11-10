@@ -1,6 +1,6 @@
 # Work2 论文复现源码
 
-拟投稿期刊：**Journal of Systems and Software（JSS）**。
+拟投稿期刊：[Information Sciences](https://www.sciencedirect.com/journal/information-sciences)。
 
 本仓库合并 `WORK2_REPRO_CODE_ONLY.zip` 与 `WORK2_VEST2_A4_SOURCE_AND_S6_ENTRY.zip`，按 SHA256 去重，保留论文方法、运行入口及必要调用依赖。实验沿用既有服务器环境和冻结输入；本次交付只整理、上传源码，不重新运行实验。
 
